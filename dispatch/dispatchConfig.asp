@@ -12,4 +12,5 @@
   let hrefUrl = "../index.html#/portal/dispatch?type=dispatchConfig";
   document.location.href = hrefUrl;
 </script>
+
 </html>
